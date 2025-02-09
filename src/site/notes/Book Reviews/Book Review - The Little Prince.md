@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/book-reviews/book-review-the-little-prince/"}
+{"dg-publish":true,"permalink":"/book-reviews/book-review-the-little-prince/","noteIcon":""}
 ---
 

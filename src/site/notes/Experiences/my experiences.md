@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/experiences/my-experiences/"}
+{"dg-publish":true,"permalink":"/experiences/my-experiences/","noteIcon":""}
 ---
 
 my experiences
