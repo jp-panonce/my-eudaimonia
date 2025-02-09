@@ -19,7 +19,7 @@ This is a place for my thoughts, insights, learnings and things I want to
 
 ## 🤵Who am I?
 
-![me_2017.png|300](/img/user/Resources/me_2017.png)
+![me_2017.png](/img/user/Resources/me_2017.png)
 I’m **JP** (my nickname anyways) - a designer, programmer and engineer powered by people and problems big or small.  
 My superpower is _**[materialize]**_ - materializing all your ideas, and turning them into something that makes your life easier.  
   
