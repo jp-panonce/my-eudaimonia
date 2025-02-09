@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jp-s-eudaimonia/","tags":["gardenEntry"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/jp-s-eudaimonia/","tags":["gardenEntry"],"noteIcon":"3"}
 ---
 
 ![me_and_sunrise_at_sambawan.png](/img/user/Resources/me_and_sunrise_at_sambawan.png)
