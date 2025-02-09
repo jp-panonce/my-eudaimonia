@@ -2,8 +2,5 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-HI!! 
+### Hi, welcome to my eudaimonia
 
-Welcome to my eudaimonia
-{ #__}
-^
