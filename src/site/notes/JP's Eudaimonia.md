@@ -22,7 +22,6 @@
  - ##### Projects
 	 - I share a very detailed account on how I developed my personal side-projects, which I create to practice my skills
 
-	
 ## 🤵Who am I?
 
 ![me_2017.png](/img/user/Resources/me_2017.png)
