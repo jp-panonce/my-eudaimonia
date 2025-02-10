@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jp-s-eudaimonia/","tags":["gardenEntry"],"noteIcon":"3"}
+{"dg-publish":true,"permalink":"/jp-s-eudaimonia/","pinned":true,"tags":["gardenEntry"],"noteIcon":"3"}
 ---
 
 # welcome to my eudaimonia
