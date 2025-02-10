@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jp-s-eudaimonia/","tags":["gardenEntry"],"noteIcon":"3"}
+{"dg-publish":true,"permalink":"/jp-s-eudaimonia/","tags":["gardenEntry"],"dgShowInlineTitle":true,"noteIcon":"3"}
 ---
 
-![me_and_sunrise_at_sambawan.png](/img/user/Resources/me_and_sunrise_at_sambawan.png)
-
-#about 
 # welcome to my eudaimonia
 
-This is a place for my thoughts, insights, learnings and things I want to 
+*This is a place for my thoughts, insights, learnings and things I want to* 
+
+![me_and_sunrise_at_sambawan.png](/img/user/Resources/me_and_sunrise_at_sambawan.png)
 
 ---
 ## 🤔What can you find here?
@@ -34,3 +33,8 @@ My superpower is _**[materialize]**_ - materializing all your ideas, and turni
 Fully committed to the philosophy of life-long learning, I’m a developer with a passion for programming, data and all things engineering & science, as well as history, organizing and more.  
   
 When I’m not at my computer I like to spend my time reading, keeping fit and playing guitar.
+
+---
+##### Tags:
+
+#about 
