@@ -4,7 +4,7 @@
 
 # welcome to my eudaimonia
 
-*a place for my thoughts, insights, learnings and things I want to* 
+*This is a place for my thoughts, insights, learnings and things I want to* 
 
 ![me_and_sunrise_at_sambawan.png](/img/user/Resources/me_and_sunrise_at_sambawan.png)
 
