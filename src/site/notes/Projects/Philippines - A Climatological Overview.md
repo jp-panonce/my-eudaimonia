@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/philippines-a-climatological-overview/"}
+{"dg-publish":true,"permalink":"/projects/philippines-a-climatological-overview/","noteIcon":"2"}
 ---
 
 ![ph_climatological_overview_cover.png](/img/user/Resources/ph_climatological_overview_cover.png)
