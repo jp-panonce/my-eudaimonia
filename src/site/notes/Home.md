@@ -14,14 +14,14 @@
  📖 **[[Book Notes & Reviews/All Book Notes & Reviews\|Book Notes & Reviews]]**
    I often share my insights on books I've read. When I do, I post it here :)
 
-💡**[[Knowledge Sharing/All Knowledge Sharing\|Knowledge Sharing]]**
+💡 **[[Knowledge Sharing/All Knowledge Sharing\|Knowledge Sharing]]**
 On topics from literature, math, sciences, technology, philosophy, history and more, I share knowledge in the best possible way I could. I believe, if everyone is knowledgeable, then we can be more empathetic and make this world a better place for everyone.
 
-😊**[[Experiences/All Experiences\|Experiences]]**
+😊 **[[Experiences/All Experiences\|Experiences]]**
   some experiences I want to share for awareness, insights or just for sharing
 
 
-🏗️**[[Projects/All Projects\|Projects]]**
+🏗️ **[[Projects/All Projects\|Projects]]**
 I share a very detailed account on how I developed my personal side-projects, which I create to practice my skills
 
 
