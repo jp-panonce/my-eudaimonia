@@ -30,6 +30,8 @@ I share a very detailed account on how I developed my personal side-projects, wh
 Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 - [[Book Notes & Reviews/Little Prince\|Little Prince]]
+- [[Experiences/All Experiences\|All Experiences]]
+- [[Knowledge Sharing/All Knowledge Sharing\|All Knowledge Sharing]]
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 
 { .block-language-dataview}
