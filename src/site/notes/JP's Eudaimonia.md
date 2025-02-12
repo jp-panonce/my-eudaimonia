@@ -23,11 +23,6 @@
 	 - I share a very detailed account on how I developed my personal side-projects, which I create to practice my skills
 
 
-
-
-
-
-
 ---
 ## 🤵Who am I?
 
@@ -38,9 +33,10 @@ Fully committed to the philosophy of life-long learning, I’m a developer with 
 When I’m not at my computer I like to spend my time reading, learning, keeping fit and playing the guitar.
 
 You can learn more about me by visiting my [website](https://jp-panonce.github.io)    
+
 ^\_\_^
 
 ---
-##### Tags:
+**Tags**
 
 #about 

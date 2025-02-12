@@ -13,7 +13,6 @@
 	 - **Programming:** Python
 	 - **Dashboarding:** Tableau
 
-
 ---
 # Introduction
 
