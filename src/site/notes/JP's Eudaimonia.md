@@ -37,7 +37,8 @@ Fully committed to the philosophy of life-long learning, I’m a developer with 
   
 When I’m not at my computer I like to spend my time reading, learning, keeping fit and playing the guitar.
 
-You can learn more about me by visiting my [website](https://jp-panonce.github.io/])    ^\_\_^
+You can learn more about me by visiting my [website](https://jp-panonce.github.io)    
+^\_\_^
 
 ---
 ##### Tags:
