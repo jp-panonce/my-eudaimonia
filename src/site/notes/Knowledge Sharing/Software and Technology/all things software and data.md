@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-sharing/software-and-technology/all-things-software-and-data/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/knowledge-sharing/software-and-technology/all-things-software-and-data/"}
 ---
 
 all things software and data
