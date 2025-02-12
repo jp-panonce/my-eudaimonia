@@ -2,18 +2,16 @@
 {"dg-publish":true,"permalink":"/jp-s-eudaimonia/","pinned":true,"tags":["gardenEntry"],"noteIcon":"3"}
 ---
 
-# welcome to my eudaimonia
-
-*This is a place for my thoughts, insights, learnings and things I want to* 
+## welcome to my eudaimonia
+*This is a place for my thoughts, insights, learnings and things I want to* share to everyone interested
 
 ![me_and_sunrise_at_sambawan.png](/img/user/Resources/me_and_sunrise_at_sambawan.png)
 
 ---
 ## 🤔What can you find here?
-
 #### Content
 
- - ##### Book Reviews
+ - ##### [[Book Notes & Reviews/+ Book Notes & Reviews +\|Book Notes & Reviews]]
 	 - I often share my insights on books I've read. When I do, I post it here :)
  - ##### Knowledge Sharing
 	 - On topics from literature, math, sciences, technology, philosophy, history and more, I share knowledge in the best possible way I could. I believe, if everyone is knowledgeable, then we can be more empathetic and make this world a better place for everyone.
