@@ -11,7 +11,7 @@
 ## 🤔What can you find here?
 #### Content
 
- - ##### [[Literature\|Book Notes & Reviews]]
+ - ##### [[Book Notes & Reviews/+ About +\|Book Notes & Reviews]]
 	 - I often share my insights on books I've read. When I do, I post it here :)
  - ##### Knowledge Sharing
 	 - On topics from literature, math, sciences, technology, philosophy, history and more, I share knowledge in the best possible way I could. I believe, if everyone is knowledgeable, then we can be more empathetic and make this world a better place for everyone.
