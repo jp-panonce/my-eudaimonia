@@ -3,9 +3,9 @@
 ---
 
 ![ph_climatological_overview_cover.png](/img/user/Resources/ph_climatological_overview_cover.png)
-*A climatological analysis on climate and weather in the Philippines.*
+<center>A climatological analysis on climate and weather in the Philippines</center>
 
-## Project Information
+# Project Information
 
  - **Category**: Dashboard
  - **Project Date:** October 15, 2024
@@ -15,5 +15,11 @@
 
 
 ---
-## Introduction
+# Introduction
+
+
+# Planning
+
+
+# Implementation
 

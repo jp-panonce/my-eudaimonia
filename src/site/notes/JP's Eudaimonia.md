@@ -31,14 +31,13 @@
 ---
 ## 🤵Who am I?
 
-![me_2017.png](/img/user/Resources/me_2017.png)
-I’m **JP** -- a designer, programmer and engineer powered by people and problems big or small.  
-
-My superpower is _**[materialize]**_ - materializing all your ideas, and turning them into something that makes your life easier.  
+I’m **JP** -- a designer, programmer and engineer motivated by people and problems big or small.  
   
 Fully committed to the philosophy of life-long learning, I’m a developer with a passion for programming, data and all things engineering & science, as well as history, organizing and more.  
   
-When I’m not at my computer I like to spend my time reading, keeping fit and playing guitar.
+When I’m not at my computer I like to spend my time reading, learning, keeping fit and playing the guitar.
+
+You can learn more about me by visiting my [website](https://jp-panonce.github.io/])    ^\_\_^
 
 ---
 ##### Tags:
