@@ -7,18 +7,33 @@
 
 # Project Information
 
- - **Category**: Dashboard
+ - **Link:** [Philippines: Climatological Overview | Tableau Public](https://public.tableau.com/app/profile/john.paul.panonce/viz/PhilippineClimate/OVERVIEW)
+ - **Project Files & Code**: [ph_climate_analysis | GitHub]([jp-panonce/ph_climate_analysis](https://github.com/jp-panonce/ph_climate_analysis))
+ - **Category**: Dashboard, Data Analysis, ETL
  - **Project Date:** October 15, 2024
  - **Tools Used:**
-	 - **Programming:** Python
+	 - **Programming:** Python, pandas, pdfquery, Jupyter
 	 - **Dashboarding:** Tableau
+	 - **Other Tools:** Excel
 
 ---
-# Introduction
+# I. Introduction
+
+## Motivations
+
+## How to use
 
 
-# Planning
+
+# II. Implementation
+
+## Data Resources
 
 
-# Implementation
 
+
+
+
+---
+**Tags:**
+#python #tableau #dashboard #pandas #climate #philippines #etl 
