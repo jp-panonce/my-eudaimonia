@@ -35,15 +35,15 @@ The dashboard has 3 main sections:
 
 ### Climatological Normals
 
-![Pasted image 20250213074815.png](/img/user/Pasted%20image%2020250213074815.png)
+![ph_climatological_normal_section.png](/img/user/Resources/ph_climatological_normal_section.png)
 
 ### Climatological Extremes
 
-![Pasted image 20250213074820.png](/img/user/Pasted%20image%2020250213074820.png)
+![ph_climatological_extremes_section.png](/img/user/Resources/ph_climatological_extremes_section.png)
 
 ### Historical Severe Weather
 
-![Pasted image 20250213074824.png](/img/user/Pasted%20image%2020250213074824.png)
+![ph_severe_weather_section.png](/img/user/Resources/ph_severe_weather_section.png)
 
 # II. Implementation
 
