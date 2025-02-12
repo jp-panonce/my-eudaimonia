@@ -3,8 +3,6 @@
 ---
 
 
----
-## 🤵Who am I?
 
 Hey! I'm **JP** - a designer, programmer, and engineer who loves solving problems, no matter the size.
 
