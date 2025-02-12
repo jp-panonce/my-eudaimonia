@@ -4,7 +4,7 @@
 
 # JP's eudaimonia
 
-> [!tip] Socrates, Plato's Apology 
+> [!quote] Socrates, Plato's Apology 
 > An unexamined life isn’t worth living
 
 **welcome to my eudaimonia**, *a place for my thoughts, insights, learnings and things I want to* share to everyone interested. There's lots to explore here, such as
@@ -27,11 +27,10 @@ I share a very detailed account on how I developed my personal side-projects, wh
 #### Recent Posts
 Stay up-to-date with my latest stuff. Here are some recent highlights:
 
+- [[Book Notes & Reviews/Little Prince\|Little Prince]]
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 
 { .block-language-dataview}
-
-
 
 
 ---
