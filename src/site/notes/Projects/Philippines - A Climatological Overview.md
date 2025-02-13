@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/projects/philippines-a-climatological-overview/","noteIcon":"2","created":"2025-02-13","updated":"2025-02-13"}
 ---
 
+<br>
+
 ![ph_climatological_overview_cover.png](/img/user/Resources/ph_climatological_overview_cover.png)
 
 <center>A climatological analysis on climate and weather in the Philippines</center>
