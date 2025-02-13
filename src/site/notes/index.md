@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/index/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/index/","pinned":true,"noteIcon":"2"}
 ---
 
