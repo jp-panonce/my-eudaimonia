@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/","pinned":true,"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/projects/","noteIcon":"2"}
 ---
 
 
