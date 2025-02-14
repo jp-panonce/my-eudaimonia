@@ -31,7 +31,7 @@ I share a very detailed account on how I developed my personal side-projects, wh
 Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 - [[Book Notes & Reviews/Little Prince\|Little Prince]]
-- [[Knowledge Sharing/Software and Technology/Your Guide to Stargazing with no tools\|Your Guide to Stargazing with no tools]]
+- [[Knowledge Sharing/Math, Science & Technology/Your Guide to Stargazing with no tools\|Your Guide to Stargazing with no tools]]
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 
 { .block-language-dataview}
