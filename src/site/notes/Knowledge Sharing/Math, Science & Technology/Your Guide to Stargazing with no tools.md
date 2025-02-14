@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-sharing/math-science-and-technology/your-guide-to-stargazing-with-no-tools/","created":"2025-02-14"}
+{"dg-publish":true,"permalink":"/knowledge-sharing/math-science-and-technology/your-guide-to-stargazing-with-no-tools/","created":"2025-02-14","updated":"2025-02-14"}
 ---
 
 
@@ -12,7 +12,7 @@ We can use our hands and fingers in making simple measurements. These can be use
 
 The following hand/finger signs will give you an approximation of the **"degrees"** into which the celestial sphere is divided.
 
-![Pasted image 20250214132643.png](/img/user/Pasted%20image%2020250214132643.png)
+![Pasted image 20250214132643.png](/img/user/Resources/Pasted%20image%2020250214132643.png)
 
 
 ---
