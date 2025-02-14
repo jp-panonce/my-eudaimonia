@@ -5,13 +5,13 @@
 
 ## Introduction
 
-From the title of the post itself, you may answer me "it smells bad, duuh". You're right, corpses do smell bad, but do you know what makes it smell bad? 
+Well, DUUH!! IT SMELLS BAD. END OF DISCUSSION.
 
-The smell of death is something you know it when you smell it. Once a person dies, the corpse doesn't smell bad right away. It only starts at a certain point -- decomposition. Decomposition happens in a couple of stages, each of which has a slightly different smell profile.
+You're right, corpses do smell bad, but do you know what makes it smell bad? gotchaa
 
+The smell of death might be  something you know it when you smell it. Once a person dies, the corpse doesn't smell bad right away. It only starts at a certain point -- decomposition. 
 
-
-Decomposition after death involves about 800 different chemicals.
+Decomposition happens in a couple of stages, each of which has a slightly different smell profile involving around 800 different chemicals.
 
 
 ---
