@@ -30,7 +30,7 @@ I share a very detailed account on how I developed my personal side-projects, wh
 #### Recent Posts
 Stay up-to-date with my latest stuff. Here are some recent highlights:
 
-- [[Book Notes & Reviews/The Little Prince - Antoine de Saint-Exupery\|The Little Prince - Antoine de Saint-Exupery]]
+- [[Book Notes & Reviews/The Little Prince\|The Little Prince]]
 - [[Knowledge Sharing/Math, Science & Technology/Your Guide to Stargazing with no tools\|Your Guide to Stargazing with no tools]]
 - [[Knowledge Sharing/Math, Science & Technology/What does death smell like\|What does death smell like]]
 - [[Knowledge Sharing/Philosophy & Literature/How not to argue\|How not to argue]]

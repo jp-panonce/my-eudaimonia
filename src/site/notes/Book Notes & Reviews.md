@@ -8,9 +8,9 @@ Reading has always been one of my favorite pastimes. It's relaxing, engaging, an
 
 ## By Genre
 ### Classics 
-| Name                                                                                                                   | Summary                                               |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Book Notes & Reviews/The Little Prince - Antoine de Saint-Exupery\|The Little Prince - Antoine de Saint-Exupery]] | A timeless masterpiece and will always be my favorite |
+| Name                                                             | Summary                                               |
+| ---------------------------------------------------------------- | ----------------------------------------------------- |
+| [[Book Notes & Reviews/The Little Prince\|The Little Prince]] | A timeless masterpiece and will always be my favorite |
 
 { .block-language-dataview}
 
