@@ -7,8 +7,10 @@
 > [!quote] Socrates, Plato's Apology 
 > An unexamined life isn’t worth living
 
-**Welcome to my Eudaimonia**.   *a place for my thoughts, insights, learnings and things I want to* share to everyone interested. There's lots to explore here, such as:
+**Welcome to my Eudaimonia**.   *a place for my thoughts, insights, learnings and things I want to* share to everyone interested. 
 
+<br>
+There's lots to explore here, such as:
 
  📖 **[[Book Notes & Reviews\|Book Notes & Reviews]]**
    I often share my insights on books I've read. When I do, I post it here :)
