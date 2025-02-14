@@ -7,7 +7,7 @@
 ![Pasted image 20250214161153.png|300](/img/user/Pasted%20image%2020250214161153.png)
 
 ## Book Details
- **Read the book here --> ** [TheLittlePrince.pdf](https://blogs.ubc.ca/edcp508/files/2016/02/TheLittlePrince.pdf)
+**Read the book here --> ** [TheLittlePrince.pdf](https://blogs.ubc.ca/edcp508/files/2016/02/TheLittlePrince.pdf)
  - **Title:** _Le Petit Prince_ (The Little Prince)
  - **Author:** Antoine de Saint-Exupéry
  - **Language:** French
