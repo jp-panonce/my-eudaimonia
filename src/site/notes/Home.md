@@ -7,8 +7,7 @@
 > [!quote] Socrates, Plato's Apology 
 > An unexamined life isn’t worth living
 
-#### **welcome to my eudaimonia**
-*a place for my thoughts, insights, learnings and things I want to* share to everyone interested. There's lots to explore here, such as:
+**Welcome to my Eudaimonia**.   *a place for my thoughts, insights, learnings and things I want to* share to everyone interested. There's lots to explore here, such as:
 
 
  📖 **[[Book Notes & Reviews\|Book Notes & Reviews]]**
@@ -18,7 +17,7 @@
 On topics from literature, math, sciences, technology, philosophy, history and more, I share knowledge in the best possible way I could. I believe, if everyone is knowledgeable, then we can be more empathetic and make this world a better place for everyone.
 
 😊 **[[Experiences\|Experiences]]**
-  some experiences I want to share for awareness, insights or just for sharing
+  some experiences I want to share for awareness, insights or just for letting it out
 
 
 🏗️ **[[Projects\|Projects]]**
@@ -39,6 +38,8 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 ---
 
+##### ABOUT ME
+
 Hey! I'm **JP** - a designer, programmer, and engineer who loves solving problems, no matter the size.
 
 I’m all about learning new stuff, so I’m constantly diving into programming, data, engineering, science, history, and organizing.
@@ -47,10 +48,11 @@ When I'm not at my computer, you'll find me reading, learning, staying fit, or j
 
 You can learn more about me by visiting my [official website & portfolio](https://jp-panonce.github.io)    
 
-^\_\_^
+• ^\_\_^
 
 ---
-©️ J.P. Panonce
+Created by JP Panonce
+
 
 
 
