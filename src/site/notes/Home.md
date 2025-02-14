@@ -4,8 +4,8 @@
 
 <h1>JP's eudaimonia</h1>
 
-> [!quote] Socrates, Plato's Apology 
-> An unexamined life isn’t worth living
+> [!quote] An unexamined life isn’t worth living
+
 
 **Welcome to my Eudaimonia**.   *a place for my thoughts, insights, learnings and things I want to* share to everyone interested. 
 
@@ -21,7 +21,6 @@ On topics from literature, math, sciences, technology, philosophy, history and m
 😊 **[[Experiences & Thoughts\|Experiences & Thoughts]]**
   some experiences I want to share for awareness, insights or just for letting it out
 
-
 🏗️ **[[Projects\|Projects]]**
 I share a very detailed account on how I developed my personal side-projects, which I create to practice my skills
 
@@ -31,10 +30,10 @@ I share a very detailed account on how I developed my personal side-projects, wh
 Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 - [[Book Notes & Reviews/The Little Prince\|The Little Prince]]
-- [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 - [[Knowledge Sharing/Math, Science & Technology/Your Guide to Stargazing with no tools\|Your Guide to Stargazing with no tools]]
 - [[Knowledge Sharing/Math, Science & Technology/What does death smell like\|What does death smell like]]
 - [[Knowledge Sharing/Philosophy & Literature/How not to argue\|How not to argue]]
+- [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 
 { .block-language-dataview}
 
