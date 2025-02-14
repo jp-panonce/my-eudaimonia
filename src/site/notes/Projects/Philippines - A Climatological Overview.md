@@ -23,11 +23,11 @@
 ---
 # I. Introduction
 
-Back when I was younger, I was and still am fascinated with meteorology. It's just that those weather maps I see on TV caught my eye. Now, that I'm into making dashboards in Tableau, I had an idea to atleast make something which is both informative and cool looking. Something which tells a story on how complicated climate and weather of my country, the Philippines, as well as the history on significant weather events the people encountered.
+Back when I was younger, I was and still am fascinated with meteorology. It's just that those weather maps I see on TV caught my eye. 
 
-Once I came up with an idea, I looked no further and started looking at the Philippines weather agency, PAGASA. Although they don't have an easily & publicly accessible database containing historical weather data, they do publish weather station data on their website. The publication is on a non-standard format for data analysis, PDF. This challenge, among many others forced me to learn new things.
+Now, that I'm into making dashboards in Tableau, My life-long fascination led me to an idea -- to make something weather related, which is both informative and cool looking. Something which tells a story on how complicated climate and weather of my country, Philippines, as well as the history on significant weather events the people encountered.
 
-In this article, I'll walk you through how I accomplished and created a dashboard which I hope will give the user information on what it feels like to live in the country and what the Filipinos has gone through, just by being in the tropical part of the globe which is also a hot bed for typhoons, droughts and many more.
+In this article, I'll walk you through how I accomplished and created a dashboard which I hope will give the user some information on how it feels like to live in the country and what the Filipinos has gone through, just by being in the tropical part of the globe which is also a hot bed for typhoons, droughts and many more.
 
 ## How to use the Dashboard
 

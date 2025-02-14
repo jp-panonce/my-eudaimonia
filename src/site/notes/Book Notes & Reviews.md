@@ -2,10 +2,25 @@
 {"dg-publish":true,"permalink":"/book-notes-and-reviews/"}
 ---
 
+Reading has always been one of my favorite pastimes. It's relaxing, engaging, and exciting. 
 
-## All My Book Notes 
-| Name                                                     | Summary                                       |
-| -------------------------------------------------------- | --------------------------------------------- |
-| [[Book Notes & Reviews/Little Prince\|Little Prince]] | my favorite book ever, a timeless masterpiece |
+
+
+## By Genre
+### Classics 
+| Name                                                                                                                   | Summary                                               |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [[Book Notes & Reviews/The Little Prince - Antoine de Saint-Exupery\|The Little Prince - Antoine de Saint-Exupery]] | A timeless masterpiece and will always be my favorite |
 
 { .block-language-dataview}
+
+### Non-Fiction
+
+
+### Science Fiction
+
+
+### Mystery
+
+
+### Short Stories
