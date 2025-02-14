@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes-and-reviews/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/book-notes-and-reviews/"}
 ---
 
 

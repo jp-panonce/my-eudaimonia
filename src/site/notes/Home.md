@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 # JP's eudaimonia
@@ -30,9 +30,6 @@ I share a very detailed account on how I developed my personal side-projects, wh
 Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 - [[Book Notes & Reviews/Little Prince\|Little Prince]]
-- [[Experiences\|Experiences]]
-- [[How I do stuff\|How I do stuff]]
-- [[Knowledge Sharing\|Knowledge Sharing]]
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 
 { .block-language-dataview}

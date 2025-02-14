@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/experiences/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/experiences/"}
 ---
 
