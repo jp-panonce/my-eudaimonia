@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"]}
 ---
 
-# JP's eudaimonia
+<h1>JP's eudaimonia</h1>
 
 > [!quote] Socrates, Plato's Apology 
 > An unexamined life isn’t worth living
@@ -33,12 +33,10 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 { .block-language-dataview}
 
-
-
-
+---
 ---
 
-##### ABOUT ME
+#### ABOUT ME
 
 Hey! I'm **JP** - a designer, programmer, and engineer who loves solving problems, no matter the size.
 
