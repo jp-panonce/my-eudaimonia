@@ -18,7 +18,7 @@ There's lots to explore here, such as:
 💡 **[[Knowledge Sharing\|Knowledge Sharing]]**
 On topics from literature, math, sciences, technology, philosophy, history and more, I share knowledge in the best possible way I could. I believe, if everyone is knowledgeable, then we can be more empathetic and make this world a better place for everyone.
 
-😊 **[[Experiences\|Experiences]]**
+😊 **[[Experiences & Thoughts\|Experiences & Thoughts]]**
   some experiences I want to share for awareness, insights or just for letting it out
 
 
