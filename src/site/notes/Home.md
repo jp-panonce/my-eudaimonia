@@ -51,7 +51,7 @@ You can learn more about me by visiting my [official website & portfolio](https:
 • ^\_\_^
 
 ---
-Created by JP Panonce
+©️ JP Panonce
 
 
 
