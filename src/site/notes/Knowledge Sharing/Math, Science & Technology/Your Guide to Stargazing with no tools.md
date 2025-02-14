@@ -12,7 +12,7 @@ We can use our hands and fingers in making simple measurements. These can be use
 
 The following hand/finger signs will give you an approximation of the **"degrees"** into which the celestial sphere is divided.
 
-![Pasted image 20250214132643.png](/img/user/Resources/Pasted%20image%2020250214132643.png)
+![sky-approximation-by-hand.png](/img/user/Resources/sky-approximation-by-hand.png)
 
 
 ---

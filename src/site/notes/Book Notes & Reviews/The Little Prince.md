@@ -4,7 +4,7 @@
 
 
 
-![Pasted image 20250214161153.png|300](/img/user/Pasted%20image%2020250214161153.png)
+![the-little-prince-book-cover.png|300](/img/user/Resources/the-little-prince-book-cover.png)
 
 ## Book Details
  - **Title:** _Le Petit Prince_ (The Little Prince)
