@@ -15,6 +15,7 @@
 
 You may read the book [here](https://blogs.ubc.ca/edcp508/files/2016/02/TheLittlePrince.pdf)
 
+---
 ## Review
 
  > [!info] Review Summary
@@ -26,3 +27,4 @@ You may read the book [here](https://blogs.ubc.ca/edcp508/files/2016/02/TheLittl
 
 
 ---
+©️ JP Panonce
