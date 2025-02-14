@@ -3,8 +3,6 @@
 ---
 
 
-## Introduction
-
 Well, DUUH!! IT SMELLS BAD. END OF DISCUSSION.
 
 You're right, corpses do smell bad, but do you know what makes it smell bad? gotchaa
