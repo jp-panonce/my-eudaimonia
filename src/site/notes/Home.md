@@ -39,7 +39,7 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 
 ---
 ---
-
+![Pasted image 20250215213420.png](/img/user/Pasted%20image%2020250215213420.png)
 #### ABOUT ME
 
 Hey! I'm **JP** - a designer, programmer, and engineer who loves solving problems, no matter the size.
