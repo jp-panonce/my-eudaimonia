@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/knowledge-sharing/math-science-and-technology/your-guide-to-stargazing-with-no-tools/","created":"2025-02-14","updated":"2025-02-14"}
 ---
 
+### What do you want to see?
+
 
 ### When & Where do I Stargaze?
 
