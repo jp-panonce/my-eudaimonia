@@ -34,12 +34,12 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 - [[Knowledge Sharing/Math, Science & Technology/What does death smell like\|What does death smell like]]
 - [[Knowledge Sharing/Philosophy & Literature/How not to argue\|How not to argue]]
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
+- [[Projects/The Crayola Colors - Dashboard\|The Crayola Colors - Dashboard]]
 
 { .block-language-dataview}
 
 ---
 ---
-![Pasted image 20250215213420.png](/img/user/Pasted%20image%2020250215213420.png)
 #### ABOUT ME
 
 Hey! I'm **JP** - a designer, programmer, and engineer who loves solving problems, no matter the size.
