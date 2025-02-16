@@ -36,6 +36,12 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 - [[Projects/The Crayola Colors - Dashboard\|The Crayola Colors - Dashboard]]
 - [[Projects/MemPi\|MemPi]]
+- [[Projects/Guess the RGB\|Guess the RGB]]
+- [[Projects/Trigo Functions Visualized\|Trigo Functions Visualized]]
+- [[Projects/Interactive Periodic Table\|Interactive Periodic Table]]
+- [[Projects/Typhoons of NW Pacific\|Typhoons of NW Pacific]]
+- [[Projects/Locked Up - State of the Worlds Prisons\|Locked Up - State of the Worlds Prisons]]
+- [[Projects/Spotify Best Songs of 2023\|Spotify Best Songs of 2023]]
 
 { .block-language-dataview}
 
