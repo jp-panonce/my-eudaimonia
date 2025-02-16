@@ -42,6 +42,7 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 - [[Projects/Typhoons of NW Pacific\|Typhoons of NW Pacific]]
 - [[Projects/Locked Up - State of the Worlds Prisons\|Locked Up - State of the Worlds Prisons]]
 - [[Projects/Spotify Best Songs of 2023\|Spotify Best Songs of 2023]]
+- [[Projects/ECE Board Exam Review Assistant\|ECE Board Exam Review Assistant]]
 
 { .block-language-dataview}
 
