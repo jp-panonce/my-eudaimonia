@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/the-crayola-colors-dashboard/","tags":["dashboard","tableau","art"]}
+{"dg-publish":true,"permalink":"/projects/mem-pi/","tags":["web-app","project","math"]}
 ---
 
 <br>

@@ -35,6 +35,7 @@ Stay up-to-date with my latest stuff. Here are some recent highlights:
 - [[Knowledge Sharing/Philosophy & Literature/How not to argue\|How not to argue]]
 - [[Projects/Philippines - A Climatological Overview\|Philippines - A Climatological Overview]]
 - [[Projects/The Crayola Colors - Dashboard\|The Crayola Colors - Dashboard]]
+- [[Projects/MemPi\|MemPi]]
 
 { .block-language-dataview}
 
