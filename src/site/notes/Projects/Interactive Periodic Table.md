@@ -8,7 +8,7 @@
 
 <center>An interactive periodic table where students can select an element and learn more about the chemical properties of said element.</center>
 <br>
-<center><a href="https://public.tableau.com/app/profile/john.paul.panonce/viz/PhilippineClimate/OVERVIEW">View in Tableau Public</a></center>
+<center><a href="https://jp-panonce.github.io/periodic_table_js">Open in Browser</a></center>
 
 <br>
 
@@ -20,7 +20,6 @@
 	 - **Languages:** JavaScript, ProcessingJS
 
 ---
-# Introduction
 
 
 
