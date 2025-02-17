@@ -4,9 +4,9 @@
 
 <br>
 
-![Pasted image 20250216225510.png](/img/user/Resources/Pasted%20image%2020250216225510.png)
+![Pasted image 20250217133242.png](/img/user/Pasted%20image%2020250217133242.png)
 
-<center>Look at all the colors of the standard 16-box crayola along with the production history of each color with this tableau dashboard.</center>
+<center>An interactive periodic table where students can select an element and learn more about the chemical properties of said element.</center>
 <br>
 <center><a href="https://public.tableau.com/app/profile/john.paul.panonce/viz/PhilippineClimate/OVERVIEW">View in Tableau Public</a></center>
 
@@ -14,29 +14,22 @@
 
 # Project Information
 
- - **Category**: Dashboard, Data Analysis, Excel
- - **Finished Date:** October 15, 2024
+ - **Category**: Web App
+ - **Finished Date:** October 15, 2014
  - **Tools Used:**
-	 - **Dashboarding:** Tableau
-	 - **Other Tools:** Excel
+	 - **Languages:** JavaScript, ProcessingJS
 
 ---
 # Introduction
 
 
 
-## How to use the Dashboard
 
-# II. Implementation
+# Implementation
 
-## Data Collection
-
-After looking through the internet, everything that I could find, I identified a couple of trusted data sources.
-
-## Data Cleaning & Transformations
+The application was first implemented in [Khan Academy's pjs interface](https://www.khanacademy.org/computer-programming/new/pjs). The implementation was a simple grid of drawings statically initialized and modified on the code. 
 
 
-## Dashboard Creation
 
 
 
